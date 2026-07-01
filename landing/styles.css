@@ -99,6 +99,16 @@ a { color: inherit; text-decoration: none; }
   margin: 14px 0 0;
   font-size: 14px;
 }
+.cta-note {
+  color: var(--muted);
+  margin: 10px 0 0;
+  font-size: 13px;
+}
+.store-note {
+  color: var(--muted);
+  margin: 10px 0 0;
+  font-size: 14px;
+}
 .eyebrow {
   margin: 0 0 12px;
   color: var(--green);
