@@ -1,7 +1,7 @@
 const SITE_CONFIG = {
-  downloadUrl: "https://github.com/IvanDerkach/AntiCasino-Shield/releases/latest",
-  githubUrl: "https://github.com/IvanDerkach/AntiCasino-Shield",
-  githubReleasesUrl: "https://github.com/IvanDerkach/AntiCasino-Shield/releases",
+  downloadUrl: "https://github.com/S3rvr/AntiCasino-Shield/releases/latest",
+  githubUrl: "https://github.com/S3rvr/AntiCasino-Shield",
+  githubReleasesUrl: "https://github.com/S3rvr/AntiCasino-Shield/releases",
   telegramUrl: "https://t.me/AntiCasinoShield",
   buyMeACoffeeUrl: "https://buymeacoffee.com/ivanderkach",
   kofiUrl: "https://ko-fi.com/ivanderkach",
