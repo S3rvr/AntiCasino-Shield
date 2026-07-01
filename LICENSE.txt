@@ -1,0 +1,17 @@
+Copyright (c) 2026 Ivan Derkach. All rights reserved.
+
+AntiCasino Shield is proprietary software. It is licensed, not sold,
+subject to the terms of the End User License Agreement ("EULA") that
+accompanies this software (see pc/EULA.md, or the license screen shown by
+the installer).
+
+Unauthorized copying, modification, distribution, reverse engineering,
+decompilation, or resale of this software, in whole or in part, is
+strictly prohibited except as expressly permitted by the EULA or by
+applicable mandatory law.
+
+This software is provided "as is", without warranty of any kind, express
+or implied. See pc/EULA.md for the full warranty disclaimer and limitation
+of liability.
+
+For the full terms, see pc/EULA.md.
